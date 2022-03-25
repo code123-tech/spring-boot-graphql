@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "graphql.playground.mapping",
+  "type": "java.lang.String",
+  "description": "A description for 'graphql.playground.mapping'"
+}]}
